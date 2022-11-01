@@ -5,7 +5,7 @@ import { Form, Modal, Button } from "react-bootstrap";
 import Field from "./Field";
 import axios from "axios";
 //css provided by stripe to format elements
-const url = "http://localhost:7000";
+const url = "https://c29f-2001-19f0-8001-1232-5400-4ff-fe26-b2b4.ngrok.io";
 
 const products = {
   id: "img_01GG9SZMHJHXT5JWPG3MXYJ98J",
